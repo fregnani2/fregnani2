@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://codepen.io/fregnani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fregnani" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bruno-fregnani-1716ba199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-fregnani-1716ba199" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/brunofregnani665" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="brunofregnani665" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/fregnani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fregnani" height="30" width="40" /></a>
 </p>
 
